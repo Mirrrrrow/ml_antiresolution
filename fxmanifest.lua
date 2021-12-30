@@ -1,0 +1,6 @@
+fx_version 'cerulean'
+author 'mirow'
+game'gta5'
+description'xyz'
+client_script 'client.lua'
+server_script 'server.lua'
